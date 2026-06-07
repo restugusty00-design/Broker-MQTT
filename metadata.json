@@ -1,8 +1,0 @@
-{
-  "name": "IoT Dashboard",
-  "description": "Dashboard for remote MQTT IoT device control",
-  "requestFramePermissions": [
-    "microphone"
-  ],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
